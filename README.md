@@ -1,1 +1,1 @@
-# Block 32 Workshop: The Acme Ice Cream Sho
+# Block 32 Workshop: The Acme Ice Cream Shop
